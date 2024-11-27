@@ -2,4 +2,4 @@
 People Playground Unreal Engine Edition
 
 # Download
-https://www.mediafire.com/file/iln77uzgo0tqbvf/PeoplePlayground.zip/file
+https://download1589.mediafire.com/ypoi13hox4ognn07j3BPcc-dtdbF6w52HqK2r3fS6tHXn5FiuPSyA0Dst7is29WErz4JNQGbuxkagtjW5D5gAfITUTnUNyHHfN2DoZHqGAj7sfjaz5vhD7OCZylCIeRD9dnpXPwsGa4afG2j5cPjAGNaNZTC25NtdnTMe1DVD-8Ngg/iln77uzgo0tqbvf/PeoplePlayground.zip
